@@ -16,7 +16,7 @@ const path = require('path');
 const winston = require('winston');
 const fetch = require('node-fetch');
 const canvafy = require('canvafy');
-
+const cooldowns = new Map();
 // ============================
 // Logger Setup
 // ============================
@@ -256,12 +256,77 @@ client.on('messageCreate', async message => {
 
   const content = message.content.toLowerCase().trim();
 
-  // .help, .pp, automod, and leveling code remains unchanged...
-  // (I kept all your existing code here - no changes in this section)
 
-  if (content === '.help' || content.startsWith('.help ')) {
-    // ... your existing .help code ...
-  }
+let lastRolePing = 0; // 🌍 global role ping cooldown
+
+if (content === '.help' || content.startsWith('.help ')) {
+
+    const allowedChannel = '1493299965798256881';
+    if (message.channel.id !== allowedChannel) return;
+
+    const roleId = '1493299630597996677'; // 🔁 replace
+    const chooseRoleChannel = '1349774320829730816';
+
+    const userId = message.author.id;
+    const now = Date.now();
+
+    const userCooldown = 5 * 60 * 1000; // 5 mins
+    const roleCooldown = 5 * 60 * 1000; // 5 mins (global)
+
+    // ⏳ USER COOLDOWN CHECK
+    if (cooldowns.has(userId)) {
+        const expirationTime = cooldowns.get(userId) + userCooldown;
+
+        if (now < expirationTime) {
+            const timestamp = `<t:${Math.floor(expirationTime / 1000)}:R>`;
+
+            const reply = await message.reply({
+                embeds: [
+                    {
+                        description: `Please wait until ${timestamp} <:609011clock:1440752125964582954> before using the \`.help\` command again. Thank you for your patience.`,
+                        color: 0xff0000
+                    }
+                ]
+            });
+
+            setTimeout(() => {
+                reply.delete().catch(() => {});
+                message.delete().catch(() => {});
+            }, 8000);
+
+            return;
+        }
+    }
+
+    // ✅ SET USER COOLDOWN
+    cooldowns.set(userId, now);
+    setTimeout(() => cooldowns.delete(userId), userCooldown);
+
+    // 🌍 GLOBAL ROLE PING CHECK
+    let contentMessage = '';
+
+    if (now - lastRolePing >= roleCooldown) {
+        contentMessage = `<@&${roleId}>`; // ✅ actual ping
+        lastRolePing = now;
+    } else {
+        contentMessage = '**Tactical Support** (role ping is currently on cooldown)';
+    }
+
+    // 📢 SEND MESSAGE
+    message.channel.send({
+        content: contentMessage,
+        embeds: [
+            {
+                title: '🎯 Attack Assistance Requested',
+                description: `A base has been shared and requires a strong strategy.\nPlease review the base above or below and assist if you can.\n\n• Requested by: <@${userId}>\n• Get roles: <#${chooseRoleChannel}>`,
+                color: 0xffa500
+            }
+        ]
+    });
+
+    // 🧹 DELETE USER COMMAND MESSAGE
+    message.delete().catch(() => {});
+}
 
 if (content === '.pp' || content.startsWith('.pp ')) {
     const isAdmin = message.member.permissions.has(PermissionsBitField.Flags.Administrator);
@@ -400,7 +465,13 @@ client.on('interactionCreate', async interaction => {
         }
       }
       if (customId?.startsWith('giveaway_')) { /* existing */ }
-      if (customId?.startsWith('ticket_') || customId === 'ticket_select') { /* existing */ }
+      if (customId?.startsWith('ticket_') || customId === 'ticket_select') {
+  const ticketCommand = client.commands.get('ticket');
+  if (ticketCommand?.onInteraction) {
+    await ticketCommand.onInteraction(interaction, client);
+  }
+  return;
+}
     }
 
   } catch (error) {
