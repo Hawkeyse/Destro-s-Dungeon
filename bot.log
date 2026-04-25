@@ -1,0 +1,706 @@
+2026-04-14 15:23:52 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:23:56 [INFO] MongoDB connected!
+2026-04-14 15:23:56 [INFO] Loaded command: automod
+2026-04-14 15:23:56 [INFO] Loaded command: ban
+2026-04-14 15:23:56 [INFO] Loaded command: baninfo
+2026-04-14 15:23:56 [INFO] Loaded command: boostercolors
+2026-04-14 15:23:56 [INFO] Loaded command: createvc
+2026-04-14 15:23:56 [INFO] Loaded command: giveaway
+2026-04-14 15:23:56 [INFO] Loaded command: grantaccess
+2026-04-14 15:23:56 [INFO] Loaded command: level
+2026-04-14 15:23:56 [INFO] Loaded command: punish
+2026-04-14 15:23:56 [INFO] Loaded command: revokeaccess
+2026-04-14 15:23:56 [INFO] Loaded command: rolegive
+2026-04-14 15:23:56 [INFO] Loaded command: roles
+2026-04-14 15:23:56 [INFO] Loaded command: rules
+2026-04-14 15:23:56 [INFO] Loaded command: ticket
+2026-04-14 15:23:56 [INFO] Loaded command: track
+2026-04-14 15:23:56 [INFO] Loaded command: trackyt
+2026-04-14 15:23:56 [INFO] Loaded command: unban
+2026-04-14 15:23:56 [INFO] Loaded command: unpunish
+2026-04-14 15:23:56 [INFO] Loaded command: warn
+2026-04-14 15:23:56 [INFO] Total commands loaded: 19
+2026-04-14 15:23:56 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:24:15 [ERROR] Interaction error: Cannot read properties of undefined (reading 'loadDefault')
+2026-04-14 15:27:31 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:27:33 [INFO] MongoDB connected!
+2026-04-14 15:27:33 [INFO] Loaded command: automod
+2026-04-14 15:27:33 [INFO] Loaded command: ban
+2026-04-14 15:27:33 [INFO] Loaded command: baninfo
+2026-04-14 15:27:33 [INFO] Loaded command: boostercolors
+2026-04-14 15:27:33 [INFO] Loaded command: createvc
+2026-04-14 15:27:33 [INFO] Loaded command: giveaway
+2026-04-14 15:27:33 [INFO] Loaded command: grantaccess
+2026-04-14 15:27:33 [INFO] Loaded command: level
+2026-04-14 15:27:33 [INFO] Loaded command: punish
+2026-04-14 15:27:33 [INFO] Loaded command: revokeaccess
+2026-04-14 15:27:33 [INFO] Loaded command: rolegive
+2026-04-14 15:27:33 [INFO] Loaded command: roles
+2026-04-14 15:27:33 [INFO] Loaded command: rules
+2026-04-14 15:27:33 [INFO] Loaded command: ticket
+2026-04-14 15:27:33 [INFO] Loaded command: track
+2026-04-14 15:27:33 [INFO] Loaded command: trackyt
+2026-04-14 15:27:33 [INFO] Loaded command: unban
+2026-04-14 15:27:33 [INFO] Loaded command: unpunish
+2026-04-14 15:27:33 [INFO] Loaded command: warn
+2026-04-14 15:27:33 [INFO] Total commands loaded: 19
+2026-04-14 15:27:33 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:27:40 [ERROR] Interaction error: canvacord.RankCardBuilder is not a constructor
+2026-04-14 15:28:27 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:28:30 [INFO] MongoDB connected!
+2026-04-14 15:28:30 [INFO] Loaded command: automod
+2026-04-14 15:28:30 [INFO] Loaded command: ban
+2026-04-14 15:28:30 [INFO] Loaded command: baninfo
+2026-04-14 15:28:30 [INFO] Loaded command: boostercolors
+2026-04-14 15:28:30 [INFO] Loaded command: createvc
+2026-04-14 15:28:30 [INFO] Loaded command: giveaway
+2026-04-14 15:28:30 [INFO] Loaded command: grantaccess
+2026-04-14 15:28:30 [INFO] Loaded command: level
+2026-04-14 15:28:30 [INFO] Loaded command: punish
+2026-04-14 15:28:30 [INFO] Loaded command: revokeaccess
+2026-04-14 15:28:30 [INFO] Loaded command: rolegive
+2026-04-14 15:28:30 [INFO] Loaded command: roles
+2026-04-14 15:28:30 [INFO] Loaded command: rules
+2026-04-14 15:28:30 [INFO] Loaded command: ticket
+2026-04-14 15:28:30 [INFO] Loaded command: track
+2026-04-14 15:28:30 [INFO] Loaded command: trackyt
+2026-04-14 15:28:30 [INFO] Loaded command: unban
+2026-04-14 15:28:30 [INFO] Loaded command: unpunish
+2026-04-14 15:28:30 [INFO] Loaded command: warn
+2026-04-14 15:28:30 [INFO] Total commands loaded: 19
+2026-04-14 15:28:30 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:28:36 [ERROR] Interaction error: Cannot read properties of undefined (reading 'loadDefault')
+2026-04-14 15:30:11 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:30:14 [INFO] MongoDB connected!
+2026-04-14 15:30:14 [INFO] Loaded command: automod
+2026-04-14 15:30:14 [INFO] Loaded command: ban
+2026-04-14 15:30:14 [INFO] Loaded command: baninfo
+2026-04-14 15:30:14 [INFO] Loaded command: boostercolors
+2026-04-14 15:30:14 [INFO] Loaded command: createvc
+2026-04-14 15:30:14 [INFO] Loaded command: giveaway
+2026-04-14 15:30:14 [INFO] Loaded command: grantaccess
+2026-04-14 15:30:15 [INFO] Loaded command: level
+2026-04-14 15:30:15 [INFO] Loaded command: punish
+2026-04-14 15:30:15 [INFO] Loaded command: revokeaccess
+2026-04-14 15:30:15 [INFO] Loaded command: rolegive
+2026-04-14 15:30:15 [INFO] Loaded command: roles
+2026-04-14 15:30:15 [INFO] Loaded command: rules
+2026-04-14 15:30:15 [INFO] Loaded command: ticket
+2026-04-14 15:30:15 [INFO] Loaded command: track
+2026-04-14 15:30:15 [INFO] Loaded command: trackyt
+2026-04-14 15:30:15 [INFO] Loaded command: unban
+2026-04-14 15:30:15 [INFO] Loaded command: unpunish
+2026-04-14 15:30:15 [INFO] Loaded command: warn
+2026-04-14 15:30:15 [INFO] Total commands loaded: 19
+2026-04-14 15:30:15 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:30:18 [ERROR] Interaction error: canvacord.RankCardBuilder is not a constructor
+2026-04-14 15:31:33 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:31:36 [INFO] MongoDB connected!
+2026-04-14 15:31:36 [INFO] Loaded command: automod
+2026-04-14 15:31:36 [INFO] Loaded command: ban
+2026-04-14 15:31:36 [INFO] Loaded command: baninfo
+2026-04-14 15:31:36 [INFO] Loaded command: boostercolors
+2026-04-14 15:31:36 [INFO] Loaded command: createvc
+2026-04-14 15:31:36 [INFO] Loaded command: giveaway
+2026-04-14 15:31:36 [INFO] Loaded command: grantaccess
+2026-04-14 15:31:36 [INFO] Loaded command: level
+2026-04-14 15:31:36 [INFO] Loaded command: punish
+2026-04-14 15:31:36 [INFO] Loaded command: revokeaccess
+2026-04-14 15:31:36 [INFO] Loaded command: rolegive
+2026-04-14 15:31:36 [INFO] Loaded command: roles
+2026-04-14 15:31:36 [INFO] Loaded command: rules
+2026-04-14 15:31:36 [INFO] Loaded command: ticket
+2026-04-14 15:31:36 [INFO] Loaded command: track
+2026-04-14 15:31:36 [INFO] Loaded command: trackyt
+2026-04-14 15:31:36 [INFO] Loaded command: unban
+2026-04-14 15:31:36 [INFO] Loaded command: unpunish
+2026-04-14 15:31:36 [INFO] Loaded command: warn
+2026-04-14 15:31:36 [INFO] Total commands loaded: 19
+2026-04-14 15:31:36 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:31:50 [ERROR] Interaction error: canvacord.RankCardBuilder is not a constructor
+2026-04-14 15:39:42 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:39:45 [INFO] MongoDB connected!
+2026-04-14 15:39:45 [INFO] Loaded command: automod
+2026-04-14 15:39:45 [INFO] Loaded command: ban
+2026-04-14 15:39:45 [INFO] Loaded command: baninfo
+2026-04-14 15:39:45 [INFO] Loaded command: boostercolors
+2026-04-14 15:39:45 [INFO] Loaded command: createvc
+2026-04-14 15:39:45 [INFO] Loaded command: giveaway
+2026-04-14 15:39:45 [INFO] Loaded command: grantaccess
+2026-04-14 15:39:45 [INFO] Loaded command: level
+2026-04-14 15:39:45 [INFO] Loaded command: punish
+2026-04-14 15:39:45 [INFO] Loaded command: revokeaccess
+2026-04-14 15:39:45 [INFO] Loaded command: rolegive
+2026-04-14 15:39:45 [INFO] Loaded command: roles
+2026-04-14 15:39:45 [INFO] Loaded command: rules
+2026-04-14 15:39:45 [INFO] Loaded command: ticket
+2026-04-14 15:39:45 [INFO] Loaded command: track
+2026-04-14 15:39:45 [INFO] Loaded command: trackyt
+2026-04-14 15:39:45 [INFO] Loaded command: unban
+2026-04-14 15:39:45 [INFO] Loaded command: unpunish
+2026-04-14 15:39:45 [INFO] Loaded command: warn
+2026-04-14 15:39:45 [INFO] Total commands loaded: 19
+2026-04-14 15:39:45 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:40:16 [ERROR] Interaction error: RankCardBuilder is not a constructor
+2026-04-14 15:43:32 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:43:36 [INFO] MongoDB connected!
+2026-04-14 15:43:36 [INFO] Loaded command: automod
+2026-04-14 15:43:36 [INFO] Loaded command: ban
+2026-04-14 15:43:36 [INFO] Loaded command: baninfo
+2026-04-14 15:43:36 [INFO] Loaded command: boostercolors
+2026-04-14 15:43:36 [INFO] Loaded command: createvc
+2026-04-14 15:43:36 [INFO] Loaded command: giveaway
+2026-04-14 15:43:36 [INFO] Loaded command: grantaccess
+2026-04-14 15:43:36 [INFO] Loaded command: level
+2026-04-14 15:43:36 [INFO] Loaded command: punish
+2026-04-14 15:43:36 [INFO] Loaded command: revokeaccess
+2026-04-14 15:43:36 [INFO] Loaded command: rolegive
+2026-04-14 15:43:36 [INFO] Loaded command: roles
+2026-04-14 15:43:36 [INFO] Loaded command: rules
+2026-04-14 15:43:36 [INFO] Loaded command: ticket
+2026-04-14 15:43:36 [INFO] Loaded command: track
+2026-04-14 15:43:36 [INFO] Loaded command: trackyt
+2026-04-14 15:43:36 [INFO] Loaded command: unban
+2026-04-14 15:43:36 [INFO] Loaded command: unpunish
+2026-04-14 15:43:36 [INFO] Loaded command: warn
+2026-04-14 15:43:36 [INFO] Total commands loaded: 19
+2026-04-14 15:43:36 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:43:38 [ERROR] Interaction error: RankCardBuilder is not a constructor
+2026-04-14 15:51:20 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:51:27 [INFO] MongoDB connected!
+2026-04-14 15:51:27 [INFO] Loaded command: automod
+2026-04-14 15:51:27 [INFO] Loaded command: ban
+2026-04-14 15:51:27 [INFO] Loaded command: baninfo
+2026-04-14 15:51:27 [INFO] Loaded command: boostercolors
+2026-04-14 15:51:27 [INFO] Loaded command: createvc
+2026-04-14 15:51:27 [INFO] Loaded command: giveaway
+2026-04-14 15:51:27 [INFO] Loaded command: grantaccess
+2026-04-14 15:51:27 [INFO] Loaded command: level
+2026-04-14 15:51:27 [INFO] Loaded command: punish
+2026-04-14 15:51:27 [INFO] Loaded command: revokeaccess
+2026-04-14 15:51:27 [INFO] Loaded command: rolegive
+2026-04-14 15:51:27 [INFO] Loaded command: roles
+2026-04-14 15:51:27 [INFO] Loaded command: rules
+2026-04-14 15:51:27 [INFO] Loaded command: ticket
+2026-04-14 15:51:27 [INFO] Loaded command: track
+2026-04-14 15:51:27 [INFO] Loaded command: trackyt
+2026-04-14 15:51:27 [INFO] Loaded command: unban
+2026-04-14 15:51:27 [INFO] Loaded command: unpunish
+2026-04-14 15:51:27 [INFO] Loaded command: warn
+2026-04-14 15:51:27 [INFO] Total commands loaded: 19
+2026-04-14 15:51:27 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:51:29 [ERROR] Interaction error: Missing username
+2026-04-14 15:52:17 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 15:52:22 [INFO] MongoDB connected!
+2026-04-14 15:52:22 [INFO] Loaded command: automod
+2026-04-14 15:52:22 [INFO] Loaded command: ban
+2026-04-14 15:52:22 [INFO] Loaded command: baninfo
+2026-04-14 15:52:22 [INFO] Loaded command: boostercolors
+2026-04-14 15:52:22 [INFO] Loaded command: createvc
+2026-04-14 15:52:22 [INFO] Loaded command: giveaway
+2026-04-14 15:52:22 [INFO] Loaded command: grantaccess
+2026-04-14 15:52:22 [INFO] Loaded command: level
+2026-04-14 15:52:22 [INFO] Loaded command: punish
+2026-04-14 15:52:22 [INFO] Loaded command: revokeaccess
+2026-04-14 15:52:22 [INFO] Loaded command: rolegive
+2026-04-14 15:52:22 [INFO] Loaded command: roles
+2026-04-14 15:52:22 [INFO] Loaded command: rules
+2026-04-14 15:52:22 [INFO] Loaded command: ticket
+2026-04-14 15:52:22 [INFO] Loaded command: track
+2026-04-14 15:52:22 [INFO] Loaded command: trackyt
+2026-04-14 15:52:22 [INFO] Loaded command: unban
+2026-04-14 15:52:22 [INFO] Loaded command: unpunish
+2026-04-14 15:52:22 [INFO] Loaded command: warn
+2026-04-14 15:52:22 [INFO] Total commands loaded: 19
+2026-04-14 15:52:22 [INFO] Giveaway timeouts rescheduled
+2026-04-14 15:52:30 [ERROR] Interaction error: canvacord.RankCardBuilder is not a constructor
+2026-04-14 16:05:08 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:05:11 [INFO] MongoDB connected!
+2026-04-14 16:05:11 [INFO] Loaded command: automod
+2026-04-14 16:05:11 [INFO] Loaded command: ban
+2026-04-14 16:05:11 [INFO] Loaded command: baninfo
+2026-04-14 16:05:11 [INFO] Loaded command: boostercolors
+2026-04-14 16:05:11 [INFO] Loaded command: createvc
+2026-04-14 16:05:11 [INFO] Loaded command: giveaway
+2026-04-14 16:05:11 [INFO] Loaded command: grantaccess
+2026-04-14 16:05:11 [INFO] Loaded command: level
+2026-04-14 16:05:11 [INFO] Loaded command: punish
+2026-04-14 16:05:11 [INFO] Loaded command: revokeaccess
+2026-04-14 16:05:11 [INFO] Loaded command: rolegive
+2026-04-14 16:05:11 [INFO] Loaded command: roles
+2026-04-14 16:05:11 [INFO] Loaded command: rules
+2026-04-14 16:05:11 [INFO] Loaded command: ticket
+2026-04-14 16:05:11 [INFO] Loaded command: track
+2026-04-14 16:05:11 [INFO] Loaded command: trackyt
+2026-04-14 16:05:11 [INFO] Loaded command: unban
+2026-04-14 16:05:11 [INFO] Loaded command: unpunish
+2026-04-14 16:05:11 [INFO] Loaded command: warn
+2026-04-14 16:05:11 [INFO] Total commands loaded: 19
+2026-04-14 16:05:11 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:05:27 [ERROR] Interaction error: canvacord.RankCardBuilder is not a constructor
+2026-04-14 16:11:55 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:11:58 [INFO] MongoDB connected!
+2026-04-14 16:11:58 [INFO] Loaded command: automod
+2026-04-14 16:11:58 [INFO] Loaded command: ban
+2026-04-14 16:11:58 [INFO] Loaded command: baninfo
+2026-04-14 16:11:58 [INFO] Loaded command: boostercolors
+2026-04-14 16:11:58 [INFO] Loaded command: createvc
+2026-04-14 16:11:58 [INFO] Loaded command: giveaway
+2026-04-14 16:11:58 [INFO] Loaded command: grantaccess
+2026-04-14 16:11:58 [INFO] Loaded command: level
+2026-04-14 16:11:58 [INFO] Loaded command: punish
+2026-04-14 16:11:58 [INFO] Loaded command: revokeaccess
+2026-04-14 16:11:58 [INFO] Loaded command: rolegive
+2026-04-14 16:11:58 [INFO] Loaded command: roles
+2026-04-14 16:11:58 [INFO] Loaded command: rules
+2026-04-14 16:11:58 [INFO] Loaded command: ticket
+2026-04-14 16:11:58 [INFO] Loaded command: track
+2026-04-14 16:11:58 [INFO] Loaded command: trackyt
+2026-04-14 16:11:58 [INFO] Loaded command: unban
+2026-04-14 16:11:58 [INFO] Loaded command: unpunish
+2026-04-14 16:11:58 [INFO] Loaded command: warn
+2026-04-14 16:11:58 [INFO] Total commands loaded: 19
+2026-04-14 16:11:58 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:12:01 [ERROR] Interaction error: (intermediate value).setAvatar(...).setBackground(...).setUsername(...).setLevel(...).setRank(...).setCurrentXp(...).setRequiredXp(...).setBarColor(...).setBorderColor is not a function
+2026-04-14 16:12:52 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:12:55 [INFO] MongoDB connected!
+2026-04-14 16:12:55 [INFO] Loaded command: automod
+2026-04-14 16:12:55 [INFO] Loaded command: ban
+2026-04-14 16:12:55 [INFO] Loaded command: baninfo
+2026-04-14 16:12:55 [INFO] Loaded command: boostercolors
+2026-04-14 16:12:55 [INFO] Loaded command: createvc
+2026-04-14 16:12:55 [INFO] Loaded command: giveaway
+2026-04-14 16:12:55 [INFO] Loaded command: grantaccess
+2026-04-14 16:12:55 [INFO] Loaded command: level
+2026-04-14 16:12:55 [INFO] Loaded command: punish
+2026-04-14 16:12:55 [INFO] Loaded command: revokeaccess
+2026-04-14 16:12:55 [INFO] Loaded command: rolegive
+2026-04-14 16:12:55 [INFO] Loaded command: roles
+2026-04-14 16:12:55 [INFO] Loaded command: rules
+2026-04-14 16:12:55 [INFO] Loaded command: ticket
+2026-04-14 16:12:55 [INFO] Loaded command: track
+2026-04-14 16:12:55 [INFO] Loaded command: trackyt
+2026-04-14 16:12:55 [INFO] Loaded command: unban
+2026-04-14 16:12:55 [INFO] Loaded command: unpunish
+2026-04-14 16:12:55 [INFO] Loaded command: warn
+2026-04-14 16:12:55 [INFO] Total commands loaded: 19
+2026-04-14 16:12:55 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:13:06 [INFO] /level used by timtech
+2026-04-14 16:13:53 [INFO] /level used by timtech
+2026-04-14 16:16:34 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:16:40 [INFO] MongoDB connected!
+2026-04-14 16:16:40 [INFO] Loaded command: automod
+2026-04-14 16:16:40 [INFO] Loaded command: ban
+2026-04-14 16:16:40 [INFO] Loaded command: baninfo
+2026-04-14 16:16:40 [INFO] Loaded command: boostercolors
+2026-04-14 16:16:40 [INFO] Loaded command: createvc
+2026-04-14 16:16:40 [INFO] Loaded command: giveaway
+2026-04-14 16:16:40 [INFO] Loaded command: grantaccess
+2026-04-14 16:16:40 [INFO] Loaded command: level
+2026-04-14 16:16:40 [INFO] Loaded command: punish
+2026-04-14 16:16:40 [INFO] Loaded command: revokeaccess
+2026-04-14 16:16:40 [INFO] Loaded command: rolegive
+2026-04-14 16:16:40 [INFO] Loaded command: roles
+2026-04-14 16:16:40 [INFO] Loaded command: rules
+2026-04-14 16:16:40 [INFO] Loaded command: ticket
+2026-04-14 16:16:40 [INFO] Loaded command: track
+2026-04-14 16:16:40 [INFO] Loaded command: trackyt
+2026-04-14 16:16:40 [INFO] Loaded command: unban
+2026-04-14 16:16:40 [INFO] Loaded command: unpunish
+2026-04-14 16:16:40 [INFO] Loaded command: warn
+2026-04-14 16:16:40 [INFO] Total commands loaded: 19
+2026-04-14 16:16:40 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:17:00 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:17:04 [INFO] MongoDB connected!
+2026-04-14 16:17:04 [INFO] Loaded command: automod
+2026-04-14 16:17:04 [INFO] Loaded command: ban
+2026-04-14 16:17:04 [INFO] Loaded command: baninfo
+2026-04-14 16:17:04 [INFO] Loaded command: boostercolors
+2026-04-14 16:17:04 [INFO] Loaded command: createvc
+2026-04-14 16:17:04 [INFO] Loaded command: giveaway
+2026-04-14 16:17:04 [INFO] Loaded command: grantaccess
+2026-04-14 16:17:04 [INFO] Loaded command: level
+2026-04-14 16:17:04 [INFO] Loaded command: punish
+2026-04-14 16:17:04 [INFO] Loaded command: revokeaccess
+2026-04-14 16:17:04 [INFO] Loaded command: rolegive
+2026-04-14 16:17:04 [INFO] Loaded command: roles
+2026-04-14 16:17:04 [INFO] Loaded command: rules
+2026-04-14 16:17:04 [INFO] Loaded command: ticket
+2026-04-14 16:17:04 [INFO] Loaded command: track
+2026-04-14 16:17:04 [INFO] Loaded command: trackyt
+2026-04-14 16:17:04 [INFO] Loaded command: unban
+2026-04-14 16:17:04 [INFO] Loaded command: unpunish
+2026-04-14 16:17:04 [INFO] Loaded command: warn
+2026-04-14 16:17:04 [INFO] Total commands loaded: 19
+2026-04-14 16:17:04 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:17:08 [ERROR] Interaction error: (intermediate value).setAvatar(...).setBackground(...).setUsername(...).setLevel(...).setRank(...).setCurrentXp(...).setRequiredXp(...).setBarColor(...).setBorder(...).setUsernameFont is not a function
+2026-04-14 16:23:04 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:23:08 [INFO] MongoDB connected!
+2026-04-14 16:23:08 [INFO] Loaded command: automod
+2026-04-14 16:23:08 [INFO] Loaded command: ban
+2026-04-14 16:23:08 [INFO] Loaded command: baninfo
+2026-04-14 16:23:08 [INFO] Loaded command: boostercolors
+2026-04-14 16:23:08 [INFO] Loaded command: createvc
+2026-04-14 16:23:08 [INFO] Loaded command: giveaway
+2026-04-14 16:23:08 [INFO] Loaded command: grantaccess
+2026-04-14 16:23:08 [INFO] Loaded command: level
+2026-04-14 16:23:08 [INFO] Loaded command: punish
+2026-04-14 16:23:08 [INFO] Loaded command: revokeaccess
+2026-04-14 16:23:08 [INFO] Loaded command: rolegive
+2026-04-14 16:23:08 [INFO] Loaded command: roles
+2026-04-14 16:23:08 [INFO] Loaded command: rules
+2026-04-14 16:23:08 [INFO] Loaded command: ticket
+2026-04-14 16:23:08 [INFO] Loaded command: track
+2026-04-14 16:23:08 [INFO] Loaded command: trackyt
+2026-04-14 16:23:08 [INFO] Loaded command: unban
+2026-04-14 16:23:08 [INFO] Loaded command: unpunish
+2026-04-14 16:23:08 [INFO] Loaded command: warn
+2026-04-14 16:23:08 [INFO] Total commands loaded: 19
+2026-04-14 16:23:08 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:23:19 [INFO] /level used by timtech
+2026-04-14 16:23:39 [INFO] /level used by timtech
+2026-04-14 16:25:32 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:25:37 [INFO] MongoDB connected!
+2026-04-14 16:25:37 [INFO] Loaded command: automod
+2026-04-14 16:25:37 [INFO] Loaded command: ban
+2026-04-14 16:25:37 [INFO] Loaded command: baninfo
+2026-04-14 16:25:37 [INFO] Loaded command: boostercolors
+2026-04-14 16:25:37 [INFO] Loaded command: createvc
+2026-04-14 16:25:37 [INFO] Loaded command: giveaway
+2026-04-14 16:25:37 [INFO] Loaded command: grantaccess
+2026-04-14 16:25:37 [INFO] Loaded command: level
+2026-04-14 16:25:37 [INFO] Loaded command: punish
+2026-04-14 16:25:37 [INFO] Loaded command: revokeaccess
+2026-04-14 16:25:37 [INFO] Loaded command: rolegive
+2026-04-14 16:25:37 [INFO] Loaded command: roles
+2026-04-14 16:25:37 [INFO] Loaded command: rules
+2026-04-14 16:25:37 [INFO] Loaded command: ticket
+2026-04-14 16:25:37 [INFO] Loaded command: track
+2026-04-14 16:25:37 [INFO] Loaded command: trackyt
+2026-04-14 16:25:37 [INFO] Loaded command: unban
+2026-04-14 16:25:37 [INFO] Loaded command: unpunish
+2026-04-14 16:25:37 [INFO] Loaded command: warn
+2026-04-14 16:25:37 [INFO] Total commands loaded: 19
+2026-04-14 16:25:37 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:25:44 [INFO] /level used by timtech
+2026-04-14 16:26:43 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:26:51 [INFO] MongoDB connected!
+2026-04-14 16:26:51 [INFO] Loaded command: automod
+2026-04-14 16:26:51 [INFO] Loaded command: ban
+2026-04-14 16:26:51 [INFO] Loaded command: baninfo
+2026-04-14 16:26:51 [INFO] Loaded command: boostercolors
+2026-04-14 16:26:51 [INFO] Loaded command: createvc
+2026-04-14 16:26:51 [INFO] Loaded command: giveaway
+2026-04-14 16:26:51 [INFO] Loaded command: grantaccess
+2026-04-14 16:26:51 [INFO] Loaded command: level
+2026-04-14 16:26:51 [INFO] Loaded command: punish
+2026-04-14 16:26:51 [INFO] Loaded command: revokeaccess
+2026-04-14 16:26:51 [INFO] Loaded command: rolegive
+2026-04-14 16:26:51 [INFO] Loaded command: roles
+2026-04-14 16:26:51 [INFO] Loaded command: rules
+2026-04-14 16:26:51 [INFO] Loaded command: ticket
+2026-04-14 16:26:51 [INFO] Loaded command: track
+2026-04-14 16:26:51 [INFO] Loaded command: trackyt
+2026-04-14 16:26:51 [INFO] Loaded command: unban
+2026-04-14 16:26:51 [INFO] Loaded command: unpunish
+2026-04-14 16:26:51 [INFO] Loaded command: warn
+2026-04-14 16:26:51 [INFO] Total commands loaded: 19
+2026-04-14 16:26:51 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:27:02 [INFO] /level used by timtech
+2026-04-14 16:27:24 [INFO] /level used by timtech
+2026-04-14 16:27:46 [INFO] /level used by timtech
+2026-04-14 16:33:20 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:33:23 [INFO] MongoDB connected!
+2026-04-14 16:33:23 [INFO] Loaded command: automod
+2026-04-14 16:33:23 [INFO] Loaded command: ban
+2026-04-14 16:33:23 [INFO] Loaded command: baninfo
+2026-04-14 16:33:23 [INFO] Loaded command: boostercolors
+2026-04-14 16:33:23 [INFO] Loaded command: createvc
+2026-04-14 16:33:23 [INFO] Loaded command: giveaway
+2026-04-14 16:33:23 [INFO] Loaded command: grantaccess
+2026-04-14 16:33:23 [INFO] Loaded command: level
+2026-04-14 16:33:23 [INFO] Loaded command: punish
+2026-04-14 16:33:23 [INFO] Loaded command: revokeaccess
+2026-04-14 16:33:23 [INFO] Loaded command: rolegive
+2026-04-14 16:33:23 [INFO] Loaded command: roles
+2026-04-14 16:33:23 [INFO] Loaded command: rules
+2026-04-14 16:33:23 [INFO] Loaded command: ticket
+2026-04-14 16:33:23 [INFO] Loaded command: track
+2026-04-14 16:33:23 [INFO] Loaded command: trackyt
+2026-04-14 16:33:23 [INFO] Loaded command: unban
+2026-04-14 16:33:23 [INFO] Loaded command: unpunish
+2026-04-14 16:33:23 [INFO] Loaded command: warn
+2026-04-14 16:33:23 [INFO] Total commands loaded: 19
+2026-04-14 16:33:23 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:33:29 [INFO] /level used by timtech
+2026-04-14 16:33:42 [INFO] /level used by timtech
+2026-04-14 16:34:11 [INFO] /level used by timtech
+2026-04-14 16:37:48 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:37:52 [INFO] MongoDB connected!
+2026-04-14 16:37:52 [INFO] Loaded command: automod
+2026-04-14 16:37:52 [INFO] Loaded command: ban
+2026-04-14 16:37:52 [INFO] Loaded command: baninfo
+2026-04-14 16:37:52 [INFO] Loaded command: boostercolors
+2026-04-14 16:37:52 [INFO] Loaded command: createvc
+2026-04-14 16:37:52 [INFO] Loaded command: giveaway
+2026-04-14 16:37:52 [INFO] Loaded command: grantaccess
+2026-04-14 16:37:52 [INFO] Loaded command: level
+2026-04-14 16:37:52 [INFO] Loaded command: punish
+2026-04-14 16:37:52 [INFO] Loaded command: revokeaccess
+2026-04-14 16:37:52 [INFO] Loaded command: rolegive
+2026-04-14 16:37:52 [INFO] Loaded command: roles
+2026-04-14 16:37:52 [INFO] Loaded command: rules
+2026-04-14 16:37:52 [INFO] Loaded command: ticket
+2026-04-14 16:37:52 [INFO] Loaded command: track
+2026-04-14 16:37:52 [INFO] Loaded command: trackyt
+2026-04-14 16:37:52 [INFO] Loaded command: unban
+2026-04-14 16:37:52 [INFO] Loaded command: unpunish
+2026-04-14 16:37:52 [INFO] Loaded command: warn
+2026-04-14 16:37:52 [INFO] Total commands loaded: 19
+2026-04-14 16:37:52 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:39:02 [INFO] /level used by timtech
+2026-04-14 16:55:07 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:55:13 [INFO] MongoDB connected!
+2026-04-14 16:55:13 [INFO] Loaded command: automod
+2026-04-14 16:55:13 [INFO] Loaded command: ban
+2026-04-14 16:55:13 [INFO] Loaded command: baninfo
+2026-04-14 16:55:13 [INFO] Loaded command: boostercolors
+2026-04-14 16:55:13 [INFO] Loaded command: createvc
+2026-04-14 16:55:13 [INFO] Loaded command: giveaway
+2026-04-14 16:55:13 [INFO] Loaded command: grantaccess
+2026-04-14 16:55:13 [INFO] Loaded command: level
+2026-04-14 16:55:13 [INFO] Loaded command: punish
+2026-04-14 16:55:13 [INFO] Loaded command: revokeaccess
+2026-04-14 16:55:13 [INFO] Loaded command: rolegive
+2026-04-14 16:55:13 [INFO] Loaded command: roles
+2026-04-14 16:55:13 [INFO] Loaded command: rules
+2026-04-14 16:55:13 [INFO] Loaded command: ticket
+2026-04-14 16:55:13 [INFO] Loaded command: track
+2026-04-14 16:55:13 [INFO] Loaded command: trackyt
+2026-04-14 16:55:13 [INFO] Loaded command: unban
+2026-04-14 16:55:13 [INFO] Loaded command: unpunish
+2026-04-14 16:55:13 [INFO] Loaded command: warn
+2026-04-14 16:55:13 [INFO] Total commands loaded: 19
+2026-04-14 16:55:13 [INFO] Giveaway timeouts rescheduled
+2026-04-14 16:59:48 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 16:59:52 [INFO] MongoDB connected!
+2026-04-14 16:59:52 [INFO] Loaded command: automod
+2026-04-14 16:59:52 [INFO] Loaded command: ban
+2026-04-14 16:59:52 [INFO] Loaded command: baninfo
+2026-04-14 16:59:52 [INFO] Loaded command: boostercolors
+2026-04-14 16:59:52 [INFO] Loaded command: createvc
+2026-04-14 16:59:52 [INFO] Loaded command: giveaway
+2026-04-14 16:59:52 [INFO] Loaded command: grantaccess
+2026-04-14 16:59:52 [INFO] Loaded command: level
+2026-04-14 16:59:52 [INFO] Loaded command: punish
+2026-04-14 16:59:52 [INFO] Loaded command: revokeaccess
+2026-04-14 16:59:52 [INFO] Loaded command: rolegive
+2026-04-14 16:59:52 [INFO] Loaded command: roles
+2026-04-14 16:59:52 [INFO] Loaded command: rules
+2026-04-14 16:59:52 [INFO] Loaded command: ticket
+2026-04-14 16:59:52 [INFO] Loaded command: track
+2026-04-14 16:59:52 [INFO] Loaded command: trackyt
+2026-04-14 16:59:52 [INFO] Loaded command: unban
+2026-04-14 16:59:52 [INFO] Loaded command: unpunish
+2026-04-14 16:59:52 [INFO] Loaded command: warn
+2026-04-14 16:59:52 [INFO] Total commands loaded: 19
+2026-04-14 16:59:52 [INFO] Giveaway timeouts rescheduled
+2026-04-14 17:00:19 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 17:00:23 [INFO] MongoDB connected!
+2026-04-14 17:00:23 [INFO] Loaded command: automod
+2026-04-14 17:00:23 [INFO] Loaded command: ban
+2026-04-14 17:00:23 [INFO] Loaded command: baninfo
+2026-04-14 17:00:23 [INFO] Loaded command: boostercolors
+2026-04-14 17:00:23 [INFO] Loaded command: createvc
+2026-04-14 17:00:23 [INFO] Loaded command: giveaway
+2026-04-14 17:00:23 [INFO] Loaded command: grantaccess
+2026-04-14 17:00:23 [INFO] Loaded command: level
+2026-04-14 17:00:23 [INFO] Loaded command: punish
+2026-04-14 17:00:23 [INFO] Loaded command: revokeaccess
+2026-04-14 17:00:23 [INFO] Loaded command: rolegive
+2026-04-14 17:00:23 [INFO] Loaded command: roles
+2026-04-14 17:00:23 [INFO] Loaded command: rules
+2026-04-14 17:00:23 [INFO] Loaded command: ticket
+2026-04-14 17:00:23 [INFO] Loaded command: track
+2026-04-14 17:00:23 [INFO] Loaded command: trackyt
+2026-04-14 17:00:23 [INFO] Loaded command: unban
+2026-04-14 17:00:23 [INFO] Loaded command: unpunish
+2026-04-14 17:00:23 [INFO] Loaded command: warn
+2026-04-14 17:00:23 [INFO] Total commands loaded: 19
+2026-04-14 17:00:23 [INFO] Giveaway timeouts rescheduled
+2026-04-14 17:07:27 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 17:07:31 [INFO] MongoDB connected!
+2026-04-14 17:07:31 [INFO] Loaded command: automod
+2026-04-14 17:07:31 [INFO] Loaded command: ban
+2026-04-14 17:07:31 [INFO] Loaded command: baninfo
+2026-04-14 17:07:31 [INFO] Loaded command: boostercolors
+2026-04-14 17:07:31 [INFO] Loaded command: createvc
+2026-04-14 17:07:31 [INFO] Loaded command: giveaway
+2026-04-14 17:07:31 [INFO] Loaded command: grantaccess
+2026-04-14 17:07:31 [INFO] Loaded command: level
+2026-04-14 17:07:31 [INFO] Loaded command: punish
+2026-04-14 17:07:31 [INFO] Loaded command: revokeaccess
+2026-04-14 17:07:31 [INFO] Loaded command: rolegive
+2026-04-14 17:07:31 [INFO] Loaded command: roles
+2026-04-14 17:07:31 [INFO] Loaded command: rules
+2026-04-14 17:07:31 [INFO] Loaded command: ticket
+2026-04-14 17:07:31 [INFO] Loaded command: track
+2026-04-14 17:07:31 [INFO] Loaded command: trackyt
+2026-04-14 17:07:31 [INFO] Loaded command: unban
+2026-04-14 17:07:31 [INFO] Loaded command: unpunish
+2026-04-14 17:07:31 [INFO] Loaded command: warn
+2026-04-14 17:07:31 [INFO] Total commands loaded: 19
+2026-04-14 17:07:31 [INFO] Giveaway timeouts rescheduled
+2026-04-14 17:24:45 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 17:24:48 [INFO] MongoDB connected!
+2026-04-14 17:24:48 [INFO] Loaded command: automod
+2026-04-14 17:24:48 [INFO] Loaded command: ban
+2026-04-14 17:24:48 [INFO] Loaded command: baninfo
+2026-04-14 17:24:48 [INFO] Loaded command: boostercolors
+2026-04-14 17:24:48 [INFO] Loaded command: createvc
+2026-04-14 17:24:48 [INFO] Loaded command: giveaway
+2026-04-14 17:24:48 [INFO] Loaded command: grantaccess
+2026-04-14 17:24:48 [INFO] Loaded command: level
+2026-04-14 17:24:48 [INFO] Loaded command: punish
+2026-04-14 17:24:48 [INFO] Loaded command: revokeaccess
+2026-04-14 17:24:48 [INFO] Loaded command: rolegive
+2026-04-14 17:24:48 [INFO] Loaded command: roles
+2026-04-14 17:24:48 [INFO] Loaded command: rules
+2026-04-14 17:24:48 [INFO] Loaded command: ticket
+2026-04-14 17:24:48 [INFO] Loaded command: track
+2026-04-14 17:24:48 [INFO] Loaded command: trackyt
+2026-04-14 17:24:48 [INFO] Loaded command: unban
+2026-04-14 17:24:48 [INFO] Loaded command: unpunish
+2026-04-14 17:24:48 [INFO] Loaded command: warn
+2026-04-14 17:24:48 [INFO] Total commands loaded: 19
+2026-04-14 17:24:48 [INFO] Giveaway timeouts rescheduled
+2026-04-14 17:30:17 [ERROR] Interaction error: Interaction has already been acknowledged.
+2026-04-14 17:30:30 [ERROR] Interaction error: Interaction has already been acknowledged.
+2026-04-14 17:30:47 [INFO] /level used by timtech
+2026-04-14 17:31:04 [INFO] /boostercolors used by timtech
+2026-04-14 17:31:33 [INFO] /roles used by timtech
+2026-04-14 17:40:27 [ERROR] Level Up Card Error: (intermediate value).setAvatar(...).setBackground(...).setUsername(...).setOldLevel is not a function
+2026-04-14 18:24:23 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-14 18:24:26 [INFO] MongoDB connected!
+2026-04-14 18:24:26 [INFO] Loaded command: automod
+2026-04-14 18:24:26 [INFO] Loaded command: ban
+2026-04-14 18:24:26 [INFO] Loaded command: baninfo
+2026-04-14 18:24:26 [INFO] Loaded command: boostercolors
+2026-04-14 18:24:26 [INFO] Loaded command: createvc
+2026-04-14 18:24:26 [INFO] Loaded command: giveaway
+2026-04-14 18:24:26 [INFO] Loaded command: grantaccess
+2026-04-14 18:24:26 [INFO] Loaded command: level
+2026-04-14 18:24:26 [INFO] Loaded command: punish
+2026-04-14 18:24:26 [INFO] Loaded command: revokeaccess
+2026-04-14 18:24:26 [INFO] Loaded command: rolegive
+2026-04-14 18:24:26 [INFO] Loaded command: roles
+2026-04-14 18:24:26 [INFO] Loaded command: rules
+2026-04-14 18:24:26 [INFO] Loaded command: ticket
+2026-04-14 18:24:26 [INFO] Loaded command: track
+2026-04-14 18:24:26 [INFO] Loaded command: trackyt
+2026-04-14 18:24:26 [INFO] Loaded command: unban
+2026-04-14 18:24:26 [INFO] Loaded command: unpunish
+2026-04-14 18:24:26 [INFO] Loaded command: warn
+2026-04-14 18:24:26 [INFO] Total commands loaded: 19
+2026-04-14 18:24:26 [INFO] Giveaway timeouts rescheduled
+2026-04-14 18:25:52 [INFO] /boostercolors used by timtech
+2026-04-14 18:25:57 [ERROR] Interaction error: Missing Permissions
+2026-04-14 18:26:11 [INFO] /roles used by timtech
+2026-04-14 18:37:13 [ERROR] Level Up Card Error: (intermediate value).setAvatar(...).setBackground(...).setUsername(...).setOldLevel is not a function
+2026-04-22 15:05:34 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-22 15:05:37 [INFO] MongoDB connected!
+2026-04-22 15:05:37 [INFO] Loaded command: automod
+2026-04-22 15:05:37 [INFO] Loaded command: ban
+2026-04-22 15:05:37 [INFO] Loaded command: baninfo
+2026-04-22 15:05:37 [INFO] Loaded command: boostercolors
+2026-04-22 15:05:37 [INFO] Loaded command: createvc
+2026-04-22 15:05:37 [INFO] Loaded command: giveaway
+2026-04-22 15:05:37 [INFO] Loaded command: grantaccess
+2026-04-22 15:05:37 [INFO] Loaded command: level
+2026-04-22 15:05:37 [INFO] Loaded command: punish
+2026-04-22 15:05:37 [INFO] Loaded command: revokeaccess
+2026-04-22 15:05:37 [INFO] Loaded command: rolegive
+2026-04-22 15:05:37 [INFO] Loaded command: roles
+2026-04-22 15:05:37 [INFO] Loaded command: rules
+2026-04-22 15:05:37 [INFO] Loaded command: ticket
+2026-04-22 15:05:37 [INFO] Loaded command: track
+2026-04-22 15:05:37 [INFO] Loaded command: trackyt
+2026-04-22 15:05:37 [INFO] Loaded command: unban
+2026-04-22 15:05:37 [INFO] Loaded command: unpunish
+2026-04-22 15:05:37 [INFO] Loaded command: warn
+2026-04-22 15:05:37 [INFO] Total commands loaded: 19
+2026-04-22 15:05:37 [INFO] Giveaway timeouts rescheduled
+2026-04-22 15:09:22 [ERROR] Level Up Card Error: (intermediate value).setAvatar(...).setBackground(...).setUsername(...).setOldLevel is not a function
+2026-04-22 15:38:05 [INFO] /rolegive used by timtech
+2026-04-22 15:47:15 [ERROR] Level Up Card Error: (intermediate value).setAvatar(...).setBackground(...).setUsername(...).setOldLevel is not a function
+2026-04-25 10:11:23 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-25 10:11:26 [INFO] MongoDB connected!
+2026-04-25 10:11:26 [INFO] Loaded command: automod
+2026-04-25 10:11:26 [INFO] Loaded command: ban
+2026-04-25 10:11:26 [INFO] Loaded command: baninfo
+2026-04-25 10:11:27 [INFO] Loaded command: boostercolors
+2026-04-25 10:11:27 [INFO] Loaded command: createvc
+2026-04-25 10:11:27 [INFO] Loaded command: giveaway
+2026-04-25 10:11:27 [INFO] Loaded command: grantaccess
+2026-04-25 10:11:27 [INFO] Loaded command: level
+2026-04-25 10:11:27 [INFO] Loaded command: punish
+2026-04-25 10:11:27 [INFO] Loaded command: revokeaccess
+2026-04-25 10:11:27 [INFO] Loaded command: rolegive
+2026-04-25 10:11:27 [INFO] Loaded command: roles
+2026-04-25 10:11:27 [INFO] Loaded command: rules
+2026-04-25 10:11:27 [INFO] Loaded command: ticket
+2026-04-25 10:11:27 [INFO] Loaded command: track
+2026-04-25 10:11:27 [INFO] Loaded command: trackyt
+2026-04-25 10:11:27 [INFO] Loaded command: unban
+2026-04-25 10:11:27 [INFO] Loaded command: unpunish
+2026-04-25 10:11:27 [INFO] Loaded command: warn
+2026-04-25 10:11:27 [INFO] Total commands loaded: 19
+2026-04-25 10:11:27 [INFO] Giveaway timeouts rescheduled
+2026-04-25 10:13:07 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-25 10:13:11 [INFO] MongoDB connected!
+2026-04-25 10:13:11 [INFO] Loaded command: automod
+2026-04-25 10:13:11 [INFO] Loaded command: ban
+2026-04-25 10:13:11 [INFO] Loaded command: baninfo
+2026-04-25 10:13:11 [INFO] Loaded command: boostercolors
+2026-04-25 10:13:11 [INFO] Loaded command: createvc
+2026-04-25 10:13:11 [INFO] Loaded command: giveaway
+2026-04-25 10:13:11 [INFO] Loaded command: grantaccess
+2026-04-25 10:13:11 [INFO] Loaded command: level
+2026-04-25 10:13:11 [INFO] Loaded command: punish
+2026-04-25 10:13:11 [INFO] Loaded command: revokeaccess
+2026-04-25 10:13:11 [INFO] Loaded command: rolegive
+2026-04-25 10:13:11 [INFO] Loaded command: roles
+2026-04-25 10:13:11 [INFO] Loaded command: rules
+2026-04-25 10:13:11 [INFO] Loaded command: ticket
+2026-04-25 10:13:11 [INFO] Loaded command: track
+2026-04-25 10:13:11 [INFO] Loaded command: trackyt
+2026-04-25 10:13:11 [INFO] Loaded command: unban
+2026-04-25 10:13:11 [INFO] Loaded command: unpunish
+2026-04-25 10:13:11 [INFO] Loaded command: warn
+2026-04-25 10:13:11 [INFO] Total commands loaded: 19
+2026-04-25 10:13:11 [INFO] Giveaway timeouts rescheduled
+2026-04-25 10:17:15 [INFO] Bot online: Destroyer's Dungeon#8115
+2026-04-25 10:17:18 [INFO] MongoDB connected!
+2026-04-25 10:17:18 [INFO] Loaded command: automod
+2026-04-25 10:17:18 [INFO] Loaded command: ban
+2026-04-25 10:17:18 [INFO] Loaded command: baninfo
+2026-04-25 10:17:18 [INFO] Loaded command: boostercolors
+2026-04-25 10:17:18 [INFO] Loaded command: createvc
+2026-04-25 10:17:18 [INFO] Loaded command: giveaway
+2026-04-25 10:17:18 [INFO] Loaded command: grantaccess
+2026-04-25 10:17:18 [INFO] Loaded command: level
+2026-04-25 10:17:18 [INFO] Loaded command: punish
+2026-04-25 10:17:18 [INFO] Loaded command: revokeaccess
+2026-04-25 10:17:18 [INFO] Loaded command: rolegive
+2026-04-25 10:17:18 [INFO] Loaded command: roles
+2026-04-25 10:17:18 [INFO] Loaded command: rules
+2026-04-25 10:17:18 [INFO] Loaded command: ticket
+2026-04-25 10:17:18 [INFO] Loaded command: track
+2026-04-25 10:17:18 [INFO] Loaded command: trackyt
+2026-04-25 10:17:18 [INFO] Loaded command: unban
+2026-04-25 10:17:18 [INFO] Loaded command: unpunish
+2026-04-25 10:17:18 [INFO] Loaded command: warn
+2026-04-25 10:17:18 [INFO] Total commands loaded: 19
+2026-04-25 10:17:18 [INFO] Giveaway timeouts rescheduled
+2026-04-25 10:18:51 [INFO] /ticket used by timtech
+2026-04-25 10:23:18 [INFO] /ticket used by timtech
